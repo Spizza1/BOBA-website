@@ -1,0 +1,17 @@
+img {
+    width: 600px;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: chocolate;
+}
+h1 {
+    color: purple;
+    text-align: center;
+}
+h3{
+    color: limegreen;
+}
+body{
+    background-color: beige;
+}
